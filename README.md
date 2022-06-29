@@ -19,11 +19,11 @@ Input From User: <br/>
 <img src="https://i.imgur.com/qUyoGbd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-New File Created Alert:  <br/>
+User Notified if a File is Created:  <br/>
 <img src="https://i.imgur.com/pAO7ZdT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Existing Files Have Been Deleted and Changed Alert: <br/>
+User Notified if a File is Deleted or Changed: <br/>
 <img src="https://i.imgur.com/LKZRseY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
