@@ -4,7 +4,6 @@
 Project consisted of creating a custom/proof of concept File Integrity Monitor (FIM). PowerShell was used to create an integrity baseline of target files/folders using the SHA-512 hashing algorithm while continuously making comparison of actual files vs baseline, raising alerts if any deviation occurred.
 <br />
 
-
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
@@ -16,33 +15,16 @@ Project consisted of creating a custom/proof of concept File Integrity Monitor (
 <h2>Project Walk-Through:</h2>
 
 <p align="center">
-Ask User What They Want To Do: <br/>
-<img src="https://i.imgur.com/mNmW1jE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+Receive Input From User: <br/>
+<img src="https://i.imgur.com/qUyoGbd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/mNmW1jE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+New File Created Alert:  <br/>
+<img src="https://i.imgur.com/pAO7ZdT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Existing Files Have Been Deleted and Changed Alert: <br/>
+<img src="https://i.imgur.com/LKZRseY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
