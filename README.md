@@ -15,7 +15,7 @@ Project consisted of creating a custom/proof of concept File Integrity Monitor (
 <h2>Project Walk-Through:</h2>
 
 <p align="center">
-Receive Input From User: <br/>
+Input From User: <br/>
 <img src="https://i.imgur.com/qUyoGbd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
